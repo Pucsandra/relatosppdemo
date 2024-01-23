@@ -3,7 +3,7 @@
 include_once ("modelo/Usuario.php");
 
 /* ************************************************************************************ *
- * CLASE Controlador rama2
+ * CLASE Controlador rama2 cambio sandra
  * ************************************************************************************ */
 
 class Controlador {
